@@ -1,4 +1,5 @@
 # SnapSpectra
+https://snapspectra.netlify.app/
 
 SnapSpectra is a dynamic image gallery website that generates images based on user prompts. This project is built using HTML, CSS, and JavaScript.
 
