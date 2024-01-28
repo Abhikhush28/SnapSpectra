@@ -1,2 +1,2 @@
 ## SnapSpectra
-```https://snapspectra.netlify.app/```
+https://snapspectra.netlify.app/
